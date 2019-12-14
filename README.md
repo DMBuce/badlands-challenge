@@ -33,12 +33,12 @@ All of the biomes are arranged in wide stripes running northwest to southeast.
 * Create a buffet world in harcore mode
 * Exit the game
 * Locate the folder for the world you just created
-* Use an NBT editor to change `generatorOption` in `level.dat` to [this]().
+* Use an NBT editor to change `generatorOptions` in `level.dat` to [this](https://raw.githubusercontent.com/DMBuce/badlands-challenge/master/generatorOptions.json). If your NBT editor is `nbted`, you can [copy and paste generatorOptions from here](https://raw.githubusercontent.com/DMBuce/badlands-challenge/master/generatorOptions.nbted).
 * Optionally, back up `level.dat` so that you can just copy it to a new save if you die
 * Delete all the files under the `region` folder
 * Relaunch the game
 * Open the world
-* Head for (10000, 10000) or (-10000, -10000)
+* Head towards (10000, 10000) or (-10000, -10000)
 
 Optionally, once you reach the jungle you can switch your world out of hardcore mode as a reward for completing the challenge.
 To do that,
