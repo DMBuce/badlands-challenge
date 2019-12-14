@@ -10,20 +10,22 @@ Welcome to **The Badlands Challenge**.
 
 -----
 
-The Badlands Challenge is a new way to play the game using minecraft's Buffet feature.
+The Badlands Challenge is a new way to play the game using the checkerboard feature of minecraft's buffet generation.
 
-You spawn in a huge badlands biome that stretches infinitely in the northwest and southeast directions.
-To the northeast and southwest, after 9km you'll find a 1km-wide desert,
-the barren remains of a once thriving jungle.
-At the far edge a sliver of jungle remains.
-Beyond that is about 2.3km of a collection of biomes that should be able to provide you with most resources.
-
+You spawn in a huge badlands biome that stretches infinitely to the northwest and southeast.
 No passive mobs or trees spawn in badlands biomes,
-so you'll need to collect wood and food from abandoned mines until you reach the jungle.
+so you'll need to collect wood and food from abandoned mines.
+
+To the northeast or southwest, after 9km you'll find a 1km-wide desert,
+the barren remains of a once thriving jungle.
+At its far edge, a sliver of jungle still clings to existence.
+Beyond that is stretch of about 2.3km that contains enough biomes to provide you with most resources.
+There's shattered savanna, sunflower plains, flower forest, ice spikes, mushroom fields, and more.
+All of the biomes are arranged in wide stripes running northwest to southeast.
 
 **Rules**
 
-* No sleeping until you reach the jungle
+* No sleeping or branch mining until you reach the jungle
 * Try not to die
 
 **How To Play**
