@@ -25,7 +25,9 @@ All of the biomes are arranged in wide stripes running northwest to southeast.
 
 **Rules**
 
-* No sleeping or branch mining until you reach the jungle
+* No sleeping until you reach the jungle
+* No branch mining until you reach the jungle
+* No setting foot in the nether until you reach the jungle
 * Try not to die
 
 **How To Play**
