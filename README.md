@@ -19,7 +19,7 @@ so you'll need to collect wood and food from the abandoned mines that spawn on t
 To the northeast or southwest, after 9km you'll find a 1km-wide desert,
 the barren remains of a once thriving jungle.
 At its far edge, a sliver of jungle still clings to existence.
-Beyond that is stretch of about 2.3km that contains enough biomes to provide you with most resources.
+Beyond that is a stretch of about 2.3km that contains enough biomes to provide you with most resources.
 There's shattered savanna, sunflower plains, flower forest, ice spikes, mushroom fields, and more.
 All of the biomes are arranged in wide stripes running northwest to southeast.
 
