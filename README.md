@@ -28,7 +28,7 @@ All of the biomes are arranged in wide stripes that zig-zag from northwest to so
 * No sleeping until you reach the jungle
 * No branch mining until you reach the jungle
 * No going to the nether until you reach the jungle
-* Try not to die
+* No switching out of hardcore until you reach the jungle
 
 **How To Play**
 
@@ -42,7 +42,7 @@ All of the biomes are arranged in wide stripes that zig-zag from northwest to so
 * Open the world
 * Head towards (10000, 10000) or (-10000, -10000)
 
-Optionally, once you reach the jungle you can switch your world out of hardcore mode as a reward for completing the challenge.
+Once you reach the jungle you can switch your world out of hardcore mode as a reward for completing the challenge.
 To do that,
 
 * Exit the game
