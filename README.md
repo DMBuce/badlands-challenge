@@ -19,7 +19,7 @@ so you'll need to collect wood and food from the abandoned mines that spawn on t
 To the northwest or southeast, after 9k blocks you'll find a thousand-block-wide desert,
 the barren remains of a once thriving jungle.
 At its far edge, a sliver of jungle still clings to existence.
-Beyond that is a stretch of about 2.3k blocks that contains enough biomes to provide you with most resources.
+Beyond that is a stretch of about 2k blocks that contains enough biomes to provide you with most resources.
 There's shattered savanna, sunflower plains, flower forest, ice spikes, mushroom fields, and more.
 All of the biomes are arranged in wide stripes that zig-zag from northeast to southwest.
 
