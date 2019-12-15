@@ -16,10 +16,10 @@ You spawn in a huge badlands biome that stretches infinitely to the northwest an
 No passive mobs or trees spawn in badlands biomes,
 so you'll need to collect wood and food from the abandoned mines that spawn on the surface of this biome.
 
-To the northeast or southwest, after 9km you'll find a 1km-wide desert,
+To the northeast or southwest, after 9k blocks you'll find a thousand-block-wide desert,
 the barren remains of a once thriving jungle.
 At its far edge, a sliver of jungle still clings to existence.
-Beyond that is a stretch of about 2.3km that contains enough biomes to provide you with most resources.
+Beyond that is a stretch of about 2.3k blocks that contains enough biomes to provide you with most resources.
 There's shattered savanna, sunflower plains, flower forest, ice spikes, mushroom fields, and more.
 All of the biomes are arranged in wide stripes running northwest to southeast.
 
