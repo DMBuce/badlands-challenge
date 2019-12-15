@@ -21,7 +21,7 @@ the barren remains of a once thriving jungle.
 At its far edge, a sliver of jungle still clings to existence.
 Beyond that is a stretch of about 2.3k blocks that contains enough biomes to provide you with most resources.
 There's shattered savanna, sunflower plains, flower forest, ice spikes, mushroom fields, and more.
-All of the biomes are arranged in wide stripes running northwest to southeast.
+All of the biomes are arranged in wide stripes zig-zagging from northwest to southeast.
 
 **Rules**
 
