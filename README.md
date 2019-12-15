@@ -14,7 +14,7 @@ The Badlands Challenge is a new way to play the game using the checkerboard feat
 
 You spawn in a huge badlands biome that stretches infinitely to the northwest and southeast.
 No passive mobs or trees spawn in badlands biomes,
-so you'll need to collect wood and food from abandoned mines.
+so you'll need to collect wood and food from the abandoned mines that spawn on the surface of this biome.
 
 To the northeast or southwest, after 9km you'll find a 1km-wide desert,
 the barren remains of a once thriving jungle.
