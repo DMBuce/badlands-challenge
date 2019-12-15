@@ -12,16 +12,16 @@ Welcome to **The Badlands Challenge**.
 
 The Badlands Challenge is a new way to play Minecraft Java Edition using the checkerboard feature of the game's buffet generation.
 
-You spawn in a huge badlands biome that stretches infinitely to the northwest and southeast.
+You spawn in a huge badlands biome that stretches infinitely to the northeast and southwest.
 No passive mobs or trees spawn in badlands biomes,
 so you'll need to collect wood and food from the abandoned mines that spawn on the surface of this biome.
 
-To the northeast or southwest, after 9k blocks you'll find a thousand-block-wide desert,
+To the northwest or southeast, after 9k blocks you'll find a thousand-block-wide desert,
 the barren remains of a once thriving jungle.
 At its far edge, a sliver of jungle still clings to existence.
 Beyond that is a stretch of about 2.3k blocks that contains enough biomes to provide you with most resources.
 There's shattered savanna, sunflower plains, flower forest, ice spikes, mushroom fields, and more.
-All of the biomes are arranged in wide stripes that zig-zag from northwest to southeast.
+All of the biomes are arranged in wide stripes that zig-zag from northeast to southwest.
 
 **Rules**
 
