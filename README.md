@@ -10,7 +10,7 @@ Welcome to **The Badlands Challenge**.
 
 -----
 
-The Badlands Challenge is a new way to play minecraft using the checkerboard feature of the game's buffet generation.
+The Badlands Challenge is a new way to play Minecraft Java Edition using the checkerboard feature of the game's buffet generation.
 
 You spawn in a huge badlands biome that stretches infinitely to the northwest and southeast.
 No passive mobs or trees spawn in badlands biomes,
