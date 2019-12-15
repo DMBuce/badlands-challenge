@@ -32,18 +32,18 @@ All of the biomes are arranged in wide stripes that zig-zag from northwest to so
 
 **How To Play**
 
-* Create a buffet world in harcore mode
-* Exit the game
-* Locate the folder for the world you just created
+* Create a buffet world in harcore mode.
+* Exit the game.
+* Locate the folder for the world you just created. It will be in the `saves` subdirectory of your [minecraft folder](https://help.mojang.com/customer/portal/articles/1480874-where-are-minecraft-files-stored-).
 * Change `generatorOptions` in your `level.dat` file
   * Use an NBT editor to change `generatorOptions` to [this](https://raw.githubusercontent.com/DMBuce/badlands-challenge/master/generatorOptions.json).
   * If your NBT editor is `nbted`, you can [copy and paste generatorOptions from here](https://raw.githubusercontent.com/DMBuce/badlands-challenge/master/generatorOptions.nbted).
   * If you don't know how to use an NBT editor and don't care about generating your own seed, you can [download this level.dat file](https://raw.githubusercontent.com/DMBuce/badlands-challenge/master/level.dat) and use it instead.
-* Optionally, back up `level.dat` so that you can just copy it to a new save if you die
-* Delete all the files under the `region` folder
-* Relaunch the game
-* Open the world
-* Head towards (10000, 10000) or (-10000, -10000)
+* Optionally, back up `level.dat` so that you can just copy it to a new save if you die.
+* Delete all the files under the `region` folder.
+* Relaunch the game.
+* Open the world.
+* Head towards (10000, 10000) or (-10000, -10000) .
 
 Once you reach the jungle you can switch your world out of hardcore mode as a reward for completing the challenge.
 To do that,
