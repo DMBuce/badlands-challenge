@@ -1,7 +1,7 @@
 ## The Badlands Challenge
 
 The oceans have boiled away, evaporated by a harsh sun.
-The plants and animals have all but died.
+Plants and animals are all but dead in this barren hellscape.
 You pilfer old mineshafts to sustain your meager existence,
 but you can't go on like this forever.
 A distant jungle offers hope.
