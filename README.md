@@ -53,3 +53,9 @@ To do that,
 
 Good luck, have fun!
 
+**Update 2020-04-03**
+
+It turns out that chests in shipwrecks don't generate with a treasure map in them like they normally do.
+This is because there are no beach biomes near ocean biomes.
+As a workaround, you can install the [No Treasure Maps](https://github.com/DMBuce/badlands-challenge/blob/master/no_treasure_maps.zip) datapack.
+
